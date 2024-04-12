@@ -17,22 +17,11 @@ public class Produto{
     }
 
     //Caracteristicas - Atributos e Propriedades
-    public string Id {get; set; }
-    public string Nome{get; set; }
-    public string Descricao {get; set; }
+    public string? Id {get; set; }
+    public string? Nome{get; set; }
+    public string? Descricao {get; set; }
     public double Valor {get; set; }
     public DateTime CriadoEm {get; set; }
-    // private string nome;
-
-    // //set - colocando algo 
-    // public void setNome (string nome){
-    //     this.nome = nome;
-    // }
-
-    // //get - pegando algo
-    // public string getNome(){
-    //     return this.nome;
-    // }
-
+  
 
 }

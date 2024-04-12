@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\autologon\\Desktop\\API\\API\\API.csproj",
+      "projectUniqueName": "C:\\C-sexta\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\autologon\\Desktop\\API\\API\\API.csproj",
+      "projectPath": "C:\\C-sexta\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\autologon\\Desktop\\API\\API\\obj\\",
+      "outputPath": "C:\\C-sexta\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\autologon\\AppData\\Roaming\\NuGet\\NuGet.Config"
